@@ -1,0 +1,16 @@
+#OS junk files
+[Tt]humbs.db
+
+#Visual Studio files
+*.suo
+*.user
+[Bb]in/
+[Oo]bj/
+packages/
+.vs/
+
+#Specific files only needed when generating the setup files downloaded from the VisualHint web site
+FieldPackEditorShowRoom/FieldPackEditorShowRoom_*.csproj
+FieldPackEditorShowRoom/FieldPackEditorShowRoom_*.sln
+FieldPackEditorShowRoom-spg/FieldPackEditorShowRoom-spg_*.csproj
+FieldPackEditorShowRoom-spg/FieldPackEditorShowRoom-spg_*.sln
