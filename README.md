@@ -1,6 +1,6 @@
 # smartfieldpackeditor-net6-samples
 
-This repository contains some sample code that allows you to play with the capabilities of the [Smart FieldPackEditor (SFPE) for .Net 6](https://visualhint.com/fieldpackeditor) library.
+This repository contains some sample code that allows you to play with the capabilities of the [Smart FieldPackEditor (SFPE) for .Net 6 and up](https://visualhint.com/fieldpackeditor) library.
 
 Note that **Smart FieldPackEditor** can be added to your own projects from [nuget](https://www.nuget.org/packages/VisualHint.SmartFieldPackEditor-net6.Trial).
 

@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
     <OutputType>WinExe</OutputType>
     <AssemblyName>FieldPackEditorShowRoom</AssemblyName>
@@ -10,13 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="System.Data.OleDb" Version="5.0.0" />
-    <PackageReference Include="VisualHint.SmartFieldPackEditor-net6.Trial" Version="2.0.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="SmartFieldPackEditor">
-      <HintPath>..\..\..\..\trial\SmartFieldPackEditor.dll</HintPath>
-    </Reference>
+    <PackageReference Include="VisualHint.SmartFieldPackEditor-net6.Trial" Version="2.2.1" />
   </ItemGroup>
 
   <ItemGroup>
